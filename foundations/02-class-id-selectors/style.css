@@ -1,0 +1,30 @@
+.par {
+  background-color: rgb(255 192 203);
+}
+
+.second {
+  font-size: 36px;
+  color: blue;;
+}
+
+.four {
+  background-color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.par{
+  font-size: 24px;
+}
+
+#oddfirst {
+  font-family: verdana;
+}
+
+#oddsecond {
+  font-family: "DejaVu-sans";
+}
+
+#oddsthree {
+  font-family: sans-serif;
+}
